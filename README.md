@@ -26,6 +26,9 @@ Este proyecto analiza la base de datos de alumnos de la **Orquesta del Bicentena
 - `informe_orquesta.html`: Informe interactivo final con gráficos y conclusiones.
 - `mapa_escuelas.html`: Mapa interactivo con escuelas que aportan alumnos a la orquesta.
 - `README.md`: Este documento.
+- `app_orquesta.exe`: Archivo ejecutable para realizar el análisis de manera automática (sin necesidad de conocimientos técnicos).
+
+
 
 ---
 
@@ -87,6 +90,21 @@ Este proyecto analiza la base de datos de alumnos de la **Orquesta del Bicentena
 ```bash
     python orquesta_analisis.py
 ```
+
+💻 Ejecutar el Análisis sin Necesitar Python
+Además del script en Python, también hemos incluido un archivo ejecutable .exe que permite ejecutar el análisis de forma completamente automática. Esto está diseñado para que los trabajadores de la Orquesta del Bicentenario Bariloche puedan reutilizar el análisis sin necesidad de tener conocimientos de programación ni instalar Python.
+
+Para ejecutar el análisis:
+
+Descargá el archivo analisis_orquesta.exe desde esta carpeta.
+
+Ejecutalo en tu computadora.
+
+El programa realizará todo el análisis y generará los resultados automáticamente.
+
+Nota: Este archivo .exe ya contiene todas las dependencias necesarias para que funcione de forma independiente. No es necesario tener Python instalado ni realizar configuraciones adicionales.
+
+
 
 💬 Contacto
 Este proyecto forma parte de mi portfolio como analista de datos.
