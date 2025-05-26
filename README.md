@@ -21,9 +21,9 @@ Este proyecto analiza la base de datos de alumnos de la **Orquesta del Bicentena
 
 ## 📁 Archivos incluidos
 
-- `orquesta_analisis.py`: Script principal que realiza la limpieza, análisis y visualización de datos.
+- `app_orquesta.py`: Script principal que realiza la limpieza, análisis y visualización de datos.
 - `/graficos/`: Carpeta con visualizaciones exportadas como imágenes.
-- `informe_orquesta.html`: Informe interactivo final con gráficos y conclusiones.
+- `informe_alumnos_orquesta.html`: Informe interactivo final con gráficos y conclusiones.
 - `mapa_escuelas.html`: Mapa interactivo con escuelas que aportan alumnos a la orquesta.
 - `README.md`: Este documento.
 - `app_orquesta.exe`: Archivo ejecutable para realizar el análisis de manera automática (sin necesidad de conocimientos técnicos).
