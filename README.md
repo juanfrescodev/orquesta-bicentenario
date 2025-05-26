@@ -69,20 +69,20 @@ Este proyecto analiza la base de datos de alumnos de la **Orquesta del Bicentena
 
 1. Cloná el repositorio:
    
-bash 
+```bash 
    git clone https://github.com/juanfrescodev/orquesta-bicentenario.git
    cd orquesta-bicentenario
 
 
 2. Instalá las dependencias necesarias (opcional si usás Google Colab):
     
-bash
+```bash
     pip install pandas matplotlib seaborn folium beautifulsoup4
 
 
 3. Ejecutá el script:
     
-bash
+```bash
     python orquesta_analisis.py
 
 💬 Contacto
