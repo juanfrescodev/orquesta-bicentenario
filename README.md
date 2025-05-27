@@ -1,6 +1,6 @@
 # 🎻 Análisis de Alumnos - Orquesta del Bicentenario Bariloche
 
-Este proyecto analiza la base de datos de alumnos de la **Orquesta del Bicentenario Bariloche**, obtenida desde una hoja de cálculo online. El objetivo es comprender la distribución por instrumento, edad, escuela, antigüedad y otros factores relevantes para la planificación pedagógica y organizativa del proyecto.
+Este proyecto analiza la base de datos de alumnos de la **Orquesta del Bicentenario Bariloche**, obtenida desde una hoja de cálculo online. El objetivo es analizar la distribución por instrumento, edad, escuela, antigüedad y otros factores relevantes para la planificación pedagógica y organizativa del proyecto.
 
 ---
 
@@ -45,7 +45,7 @@ Este proyecto analiza la base de datos de alumnos de la **Orquesta del Bicentena
 ---
 
 ## 🎯 Objetivos del análisis
-
+El análisis tiene como finalidad:
 - Visualizar la cantidad de alumnos por instrumento, escuela, grado/año.
 - Calcular estadísticas como promedio de edad y antigüedad.
 - Detectar desigualdades en la distribución de alumnos.
